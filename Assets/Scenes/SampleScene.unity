@@ -446,7 +446,7 @@ MonoBehaviour:
           m_Value0: 17349096291868678405
           m_Value1: 14963669684609101238
         Name: WaitSwc
-        m_Value: 10
+        m_Value: 3
 --- !u!114 &710169978
 MonoBehaviour:
   m_ObjectHideFlags: 0
