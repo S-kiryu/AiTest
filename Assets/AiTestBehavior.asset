@@ -41,7 +41,7 @@ MonoBehaviour:
         AuthoringAssetID:
           m_Value0: 3813980581733696595
           m_Value1: 2040146482193075288
-        m_DebugInfo: {fileID: 0}
+        m_DebugInfo: {fileID: -7550275442397141284}
         BlackboardReference:
           rid: 4763830533215486896
         BlackboardGroupReferences: []
@@ -53,7 +53,7 @@ MonoBehaviour:
           rid: 4763830533215486898
         m_EndedNodes:
           rid: 4763830533215486899
-        m_VersionTimestamp: 638895155325230094
+        m_VersionTimestamp: 638895160354792467
     - rid: 4763830533215486896
       type: {class: BlackboardReference, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -326,7 +326,7 @@ MonoBehaviour:
   - rid: 4763830533215486437
   - rid: 4763830533215486807
   - rid: 4763830533215486833
-  m_VersionTimestamp: 638895155325230094
+  m_VersionTimestamp: 638895160354792467
   m_DebugInfo: {fileID: -7550275442397141284}
   m_RuntimeGraph: {fileID: -3680772491700890326}
   AssetID:
@@ -812,7 +812,7 @@ MonoBehaviour:
     - rid: 4763830531536453869
       type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
       data:
-        Position: {x: -272.79407, y: 226.59956}
+        Position: {x: -258.31198, y: 247.84003}
         ID:
           m_Value0: 14417469692738119640
           m_Value1: 15339783584230430910
@@ -889,7 +889,7 @@ MonoBehaviour:
     - rid: 4763830533215486029
       type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
       data:
-        Position: {x: -66.62388, y: 232.28085}
+        Position: {x: -67.58934, y: 249.65938}
         ID:
           m_Value0: 4238550190740777508
           m_Value1: 13848937997370356952
@@ -1249,7 +1249,7 @@ MonoBehaviour:
     - rid: 4763830533215486833
       type: {class: SetValueNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
       data:
-        Position: {x: 139.17635, y: 229.15166}
+        Position: {x: 130.48706, y: 244.59926}
         ID:
           m_Value0: 12866956399167707606
           m_Value1: 11067419089581314173
